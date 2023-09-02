@@ -1,0 +1,26 @@
+﻿  commonModule.c
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(8,10): warning C4067: 전처리기 지시문 다음에 예기치 않은 토큰이 있습니다. 줄 바꿈 문자가 필요합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(192,14): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(74,7): warning C4101: 'tmpStr' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(250,9): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(372,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\commonModule.c(397,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+  designTool.c
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\designTool.c(752,12): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\designTool.c(754,15): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\designTool.c(801,20): warning C4013: 'UpdateGameBoard'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\designTool.c(747,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\designTool.c(811,1): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  gameSystem.c
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1289,6): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1549,69): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1551,68): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1554,69): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1560,93): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\gameSystem.c(1561,80): warning C4267: '함수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  lobbySystem.c
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\lobbySystem.c(14,14): warning C4013: '_kbhit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\source\repos\SW_TeamProject\SW_TeamProject\lobbySystem.c(75,16): warning C4013: '_getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  main.c
+  코드를 생성하고 있습니다...
+  SW_TeamProject.vcxproj -> C:\Users\user\source\repos\SW_TeamProject\x64\Debug\SW_TeamProject.exe
